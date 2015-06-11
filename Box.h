@@ -1,10 +1,8 @@
-//
 //  Box.h
 //  Clean Boat Project
 //
 //  Created by Ted Pascua on 11/18/14.
 //  Copyright (c) 2014 Ted Pascua. All rights reserved.
-//
 
 #ifndef Clean_Boat_Project_Box_h
 #define Clean_Boat_Project_Box_h
