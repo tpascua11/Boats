@@ -2,6 +2,9 @@
 
 NOTE: This Boat Program will be Remade
 
+
+![Alt text](https://github.com/tpascua11/Boats/blob/master/picture/Boat%20On%20Water.gif "Optional title")
+
 A project that I did in my Computer Graphics Class. 
 It uses most what I learn in class such as springs and OpenGl stuff.
 
